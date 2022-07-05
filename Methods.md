@@ -10,7 +10,7 @@
 
 # Data analysis
 This file contains a general overview of how to implement the colocalisation analysis from the paper. Furthermore, there are more specific examples of how the data shown was produced. Data and software tools used are given below for reproducing the results. 
-Utility functions created for this workflow are within `utils/functions.R`. 
+Utility functions created for this workflow are within `functions.R`. 
 All genomic coordinates were converted to the hg19 (human) or mm10 (mouse) genome build before analysis using the `liftOver` function of the `rtracklayer` package using the appropriate chain files.
 For better reproducibility, no exact paths or file names are given for the general workflow. Instead `$` is used in combination with informative placeholder names. 
 ## Software tools
@@ -61,7 +61,7 @@ Steps 1 to 8 show an overview over the complete pipeline:
 ```
 library(dplyr)
 library(rjson)
-source("utils/functions.R")
+source("functions.R")
 ```
 
 2. Load G4 data and catenate both strands.
