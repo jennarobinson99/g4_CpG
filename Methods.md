@@ -2,7 +2,6 @@
 - Data analysis
 	- Software tools
 	- Data files
-	- Overview of colocalisation workflow
 	- Specific examples of how to apply the workflow
 		- G4 enrichment at ageing clock CpGs
 		- G4 enrichment at protein binding sites
