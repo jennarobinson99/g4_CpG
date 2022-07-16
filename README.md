@@ -1,5 +1,6 @@
-# Insert_paper_title 
+# G-quadruplexes mark sites of methylation instability associated with ageing and cancer
 
-Repository for the data analysis section accompanying the article *Insert_paper_title* (1). See [methods](link to method.md). 
+
+This repositor contains code used for the data analysis in the article "G-quadruplexes mark sites of methylation instability associated with ageing and cancer"(1). See [methods](link to method.md). 
 
 (1) Insert_paper_citation.
